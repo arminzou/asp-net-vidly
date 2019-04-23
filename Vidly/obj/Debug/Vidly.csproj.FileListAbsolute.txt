@@ -229,3 +229,14 @@ C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\obj\Debug\
 C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
 C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\AutoMapper.dll
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\System.ValueTuple.dll
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\AutoMapper.pdb
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\AutoMapper.xml
+C:\Users\ArminZou\Desktop\Study materials\ASP.NET\asp-net-vidly\Vidly\bin\System.ValueTuple.xml
